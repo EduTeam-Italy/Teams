@@ -1,20 +1,13 @@
 ---
-title: Test video
+title: 1 marzo 2019 | HPC on Azure for Research
+youtubeId: s6Ft3phgrb0
 ---
 
 # Webinar CRUI
 
 **Abstract**: Liberati dal sovraccarico e dalle limitazioni dell’infrastruttura locale. Sfrutta risorse illimitate per ottenere scalabilità per i processi HPC (High Performance Computing), per analizzare dati su vasta scala, eseguire simulazioni e modelli finanziari e sperimentare riducendo il tempo di immissione sul mercato.
 
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/s6Ft3phgrb0"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+{% include youtubePlayer.html id=page.youtubeId %}
 
 **Speaker**: Silvia Spera
 
